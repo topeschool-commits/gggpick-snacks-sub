@@ -1,22 +1,22 @@
 {
     "domain": "snacks.gggpick.com",
     "categories": [
-        "기저귀/위생",
-        "수유/이유식",
-        "심신안정/수면"
+        "과자 및 스낵",
+        "초콜릿 및 캔디",
+        "건강 간식"
     ],
     "category_details": {
-        "기저귀/위생": {
-            "topic": "Diaper bags, wet wipe cases, diaper disposal bins.",
-            "role": "Parenting essential guide recommending top-rated Coupang snacks items."
+        "과자 및 스낵": {
+            "topic": "Potato chips, crackers, popcorn.",
+            "role": "Snack reviewer."
         },
-        "수유/이유식": {
-            "topic": "snacks bottle sterilizers, snacks food makers, high chairs.",
-            "role": "Infant nutrition marketing expert providing premium childcare product comparisons."
+        "초콜릿 및 캔디": {
+            "topic": "Chocolates, gummies, candies, caramels.",
+            "role": "Dessert curator."
         },
-        "심신안정/수면": {
-            "topic": "Pacifiers, bouncers, sleep sound machines.",
-            "role": "Sleep training specialist selecting products with high-rated real reviews from parents."
+        "건강 간식": {
+            "topic": "Protein bars, mixed nuts, dried fruits.",
+            "role": "Healthy snack expert."
         }
     }
 }
