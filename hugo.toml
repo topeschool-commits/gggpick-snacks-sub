@@ -5,7 +5,7 @@
 # 1. 사이트 기본 식별 정보
 baseURL = 'https://snacks.gggpick.com/'
 languageCode = 'ko-kr'
-title = 'GGG Pick snacks'
+title = 'GGG Pick 스낵간식'
 
 [params]
   # 2. 쿠팡 파트너스 전용 데이터
@@ -16,7 +16,7 @@ title = 'GGG Pick snacks'
   homepage_sections = ["posts"]
   
   # 3. 사이트 설명 및 브랜딩
-  description = 'snacks 관련 전문가 리뷰와 쿠팡 최저가 완벽 가이드.'
+  description = '과자 및 스낵, 초콜릿 및 캔디, 건강 간식 등 입이 즐거운 디저트 및 간식류 쿠팡 로켓배송 특가 추천 및 리뷰.'
   brandColor = "#1a1c2c"
 
   # (공통) 애드센스 정보 및 메타 데이터
@@ -25,7 +25,7 @@ title = 'GGG Pick snacks'
   env = 'production'
 
   # 🚨 사이트 식별 정보
-  sitename = "GGG Pick snacks"
+  sitename = "GGG Pick 스낵간식"
   siteurl = "https://snacks.gggpick.com"
   startdate = "2026-03-31"
   contactemail = "contact@gggpick.com"
