@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://snacks.gggpick.com/sitemap.xml
